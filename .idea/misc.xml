@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RoomDB_13_DianaAyuK/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12222222222222222" />
+        <entry key="..\:/RoomDB_13_DianaAyuK/app/src/main/res/drawable/ic_delete.xml" value="0.12222222222222222" />
+        <entry key="..\:/RoomDB_13_DianaAyuK/app/src/main/res/drawable/ic_edit.xml" value="0.12222222222222222" />
+        <entry key="..\:/RoomDB_13_DianaAyuK/app/src/main/res/layout/activity_add.xml" value="0.1" />
+        <entry key="..\:/RoomDB_13_DianaAyuK/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/RoomDB_13_DianaAyuK/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.178125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RoomDB_13_DianaAyuK/app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RoomDB_13_DianaAyuK/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/RoomDB_13_DianaAyuK/app/src/main/res/layout/list_movie.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
